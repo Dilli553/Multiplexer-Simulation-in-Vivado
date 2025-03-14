@@ -1,4 +1,4 @@
-EXP-1 SIMULATION AND IMPLEMENTATION OF LOGIC GATES
+1EXP-1 SIMULATION AND IMPLEMENTATION OF LOGIC GATES
 
 AIM:
 
@@ -80,7 +80,8 @@ endmodule
 
 OUTPUT:
 
-![image.](https://github.com/user-attachments/assets/c1fb91fa-40b0-4f5b-85ad-ab27452f85a8)
+![image.](https://github.com/user-attachments/assets/00c33b2a-eeaf-4fd2-bb7c-73dc10799886)
+
 
 
   
@@ -98,7 +99,8 @@ endmodule
 
 OUTPUT:
 
-![image.](https://github.com/user-attachments/assets/3f4f9dae-7461-4f57-8fb1-950a32f2e2c3)
+![image.](https://github.com/user-attachments/assets/c2a36f09-7b80-4b54-903e-193f3506e715)
+
 
 
 4:1 MUX Behavioral Implementation
@@ -121,7 +123,7 @@ endmodule
 
  OUTPUT:
 
-![image.](https://github.com/user-attachments/assets/dce289e2-c261-4878-92d1-8608ca2f69de)
+ ![image.](https://github.com/user-attachments/assets/37ae64d7-58ed-4a6e-8c19-aacddb0de938)
 
 
 4:1 MUX Structural Implementation
@@ -138,8 +140,7 @@ endmodule
 
  OUTPUT:
 
-![image.](https://github.com/user-attachments/assets/23830d74-3571-44d1-89eb-6d588d2c36b8)
-
+![image.](https://github.com/user-attachments/assets/7f74db32-ad0b-4fc7-a0aa-0bf9ccf82bbd)
 
 
 Testbench Implementation
@@ -178,7 +179,7 @@ endmodule
 
 OUTPUT:
 
-![image.](https://github.com/user-attachments/assets/c7784211-22a4-47eb-b85f-dde2129e3622)
+![image.](https://github.com/user-attachments/assets/8c6ec26a-25f9-4922-a2f1-4c415390865d)
 
 
 Conclusion:
